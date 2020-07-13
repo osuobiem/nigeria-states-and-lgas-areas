@@ -1,2 +1,2 @@
 # unscrambler
-Simple program that unscrambles English words.
+A simple program that unscrambles English words.
